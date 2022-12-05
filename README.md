@@ -1,3 +1,4 @@
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://eduardtms.io)
 <h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">I am an aspiring frontend developer</h3>
 <img align="right" alt="CodingGif" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
