@@ -3,8 +3,6 @@
 <hr>
 <img align="center" alt="CodingGif" width="1000" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardtms&label=Profile%20views&color=0e75b6&style=flat" alt="eduardtms" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardtms" alt="eduardtms" /></a> </p>
 
 - 🌱 I’m currently learning **React**
